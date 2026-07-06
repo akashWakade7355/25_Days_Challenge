@@ -31,10 +31,10 @@ The main objectives of this challenge are:
 
 Every solution will include:
 - ✅ Problem Statement
-- ✅ Approach
 - ✅ Optimized Solution
 - ✅ Time Complexity
 - ✅ Space Complexity
+- ✅ Approach
 
 ---
 
