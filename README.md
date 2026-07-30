@@ -110,7 +110,7 @@ Each day's folder will contain one or more DSA problems along with their optimiz
 | Day 22 | 27 Jul 2026 | ✅ |
 | Day 23 | 28 Jul 2026 | ✅ |
 | Day 24 | 29 Jul 2026 | ✅ |
-| Day 25 | 30 Jul 2026 | ⏳ |
+| Day 25 | 30 Jul 2026 | ✅ |
 
 ---
 
